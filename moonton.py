@@ -117,7 +117,7 @@ class MOONTON:
         self.die.append(user['userdata'])
         open('die.txt','a').write(str(user['userdata'])+'\n')
     except:
-      elf.validate(user)
+      self.validate(user)
 
 if __name__ == '__main__':
   (MOONTON(api).main())

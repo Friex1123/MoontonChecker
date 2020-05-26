@@ -7,7 +7,7 @@
 # Github         : https://github.com/dz-id                #
 # Facebook       : https://www.facebook.com/dulahz         #
 # Telegram       : https://t.me/unikers                    #
-# Python version : 2.7 OR 3.7++                                     #
+# Python version : 2.7 OR 3.7++                            #
 # Web version    : https://dz-tools.my.id/moonton-checker/ #
 ############################################################
 
